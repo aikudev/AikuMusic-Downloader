@@ -1,0 +1,4 @@
+python-telegram-bot>=22.0,<23.0
+yt-dlp
+spotdl>=4.2
+python-dotenv>=1.0
